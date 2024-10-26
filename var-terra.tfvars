@@ -1,0 +1,5 @@
+resource_group_name = "reto"
+location="westus"
+vm1="vm-back"
+vm2="vm-db"
+pub_key="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHSMomIwlNriyWYMvfEe2Bwq+h5XMbNlPSyp4pbno+Kt leomarto"
